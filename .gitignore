@@ -42,4 +42,4 @@ testem.log
 Thumbs.db
 
 #environment variable
-\environments
+#\environments
